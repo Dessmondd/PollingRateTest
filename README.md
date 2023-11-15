@@ -15,5 +15,6 @@ The script utilizes the `pynput` library to capture mouse movements. It calculat
    ```bash
    pip install pynput
 2. Run the script:
-  python LatencyHZ.py
+  python polling_rate_test.py
+
 
