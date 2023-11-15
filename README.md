@@ -15,6 +15,7 @@ The script utilizes the `pynput` library to capture mouse movements. It calculat
    ```bash
    pip install pynput
 2. Run the script:
-  python polling_rate_test.py
+  ```
+python polling_rate_test.py
 
 
